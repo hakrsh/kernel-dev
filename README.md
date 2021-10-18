@@ -1,3 +1,2 @@
 # kernel-dev
-* https://gist.github.com/khenidak/22ae8d6005a0906a8923554d3bc6917b
-* https://www.cyberciti.biz/tips/compiling-linux-kernel-26.html
+* https://docs.google.com/document/d/19BSLsbnUB1eN9VIoZ8cl7nUsL1dagJECN04qQkt4pTM/edit?usp=sharing
